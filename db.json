@@ -1,0 +1,27 @@
+{
+  "clientes": [
+    {
+      "nombre": "Josué",
+      "empresa": "Codigo Con Elmer",
+      "email": "josue@juan.com",
+      "telefono": "31983913",
+      "notas": "Notas de Josué",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Elmer",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Elmer"
+    },
+    {
+      "nombre": "Melissa",
+      "empresa": "Melissa Contrucciones",
+      "email": "melissa@gmail.com",
+      "telefono": "+52 9273472693",
+      "notas": "Solicita reunión de los ingenieros.",
+      "id": 3
+    }
+  ]
+}
