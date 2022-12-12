@@ -78,7 +78,7 @@ const Formulario = ({cliente}) => {
 
             <button
                 type={'submit'}
-                className={'bg-blue-800 hover:bg-blue-700 w-full p-2 text-white transition rounded'}
+                className={'bg-indigo-600 hover:bg-indigo-700 w-full p-2 text-white transition rounded'}
             >{cliente?.id ? 'Guardar Cambios' : 'Registrar Cliente'}</button>
         </>
     )

@@ -54,7 +54,7 @@ const EditarCliente = () => {
 
     return (
         <>
-            <h1 className={'font-black text-4xl text-blue-900'}>Editar Cliente</h1>
+            <h1 className={'font-black text-4xl text-indigo-900'}>Editar Cliente</h1>
             <p className={'mt-3'}>A continuación podrás modificar los datos de un cliente</p>
 
             <div className={'flex justify-end'}>
